@@ -1,0 +1,6 @@
+{
+    "javascript.suggest.autoImports": true,
+    "python.autoComplete.extraPaths": [
+        
+    ]
+}
